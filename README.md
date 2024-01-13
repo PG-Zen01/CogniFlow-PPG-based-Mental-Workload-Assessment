@@ -41,6 +41,12 @@ Stress is a significant concern in modern societies, impacting productivity, hea
 
 - Decomposed PPG signals into IMFs using Empirical Mode Decomposition, revealing stress-related patterns.
 
+  ![image](https://github.com/PG-Zen01/CogniFlow-PPG-based-Mental-Workload-Assessment/assets/156335467/66d21da4-8f25-4106-9068-6f43081e3e02)
+
+![image](https://github.com/PG-Zen01/CogniFlow-PPG-based-Mental-Workload-Assessment/assets/156335467/21309edb-5d4f-4f52-a8b3-2e1cc5a0bca6)
+
+
+
 ### Step 4: Training and Classification
 
 - Assigned 30% of the dataset for testing purposes.
@@ -48,3 +54,11 @@ Stress is a significant concern in modern societies, impacting productivity, hea
 - Employed Support Vector Machine (SVM) for classification.
 
 - Tuned the regularization parameter (C) to 600 for optimal performance.
+
+##Correlation matrix
+![image](https://github.com/PG-Zen01/CogniFlow-PPG-based-Mental-Workload-Assessment/assets/156335467/ba319dd6-78e1-479e-be63-0fcc6466167a)
+
+##Confusion matrix
+![image](https://github.com/PG-Zen01/CogniFlow-PPG-based-Mental-Workload-Assessment/assets/156335467/fd740d4f-895c-4eb4-be66-8c6d9cc31d69)
+
+
